@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdieh.
 - 👀 I’m interested in Front-end Development.
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently working with Vue.js and React.js
 - 📫 How to reach me? mahdieh.roustaei@gmail.com
 
 <!---
